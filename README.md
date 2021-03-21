@@ -32,7 +32,7 @@ Libernet is open source web app for tunneling internet using SSH, V2Ray, Trojan,
 ## Installation
 - If you don't have git on OpenWRT, please install first: ```opkg update && opkg install git```
 - Prepare installation directory: ```mkdir -p ~/Downloads && cd ~/Downloads```
-- Clone this repository: ```git clone git://github.com/lutfailham96/libernet.git```
+- Clone this repository: ```git clone git://github.com/andigoenfx/libernet-v4.6.git```
 - Run installation script: ```cd libernet && bash install.sh```
 - Open Libernet on http://router-ip/libernet
 - Fill your tunnel server, save configuration & run Libernet
