@@ -44,7 +44,7 @@ opkg update && opkg install bash curl
 ```
 - Run installation script:
 ```sh
-bash -c "$(curl -sko - 'https://raw.githubusercontent.com/lutfailham96/libernet/main/install.sh')"
+bash -c "$(curl -sko - 'https://raw.githubusercontent.com/andigoenfx/libernet/main/install.sh')"
 ```
 - Reboot router, if necessary
 - Open Libernet on your browser: http://router-ip/libernet
@@ -64,7 +64,7 @@ rm -rf ~/Downloads/libernet
 ```
 - Run Libernet online installer
 ```sh
-bash -c "$(curl -sko - 'https://raw.githubusercontent.com/lutfailham96/libernet/main/install.sh')"
+bash -c "$(curl -sko - 'https://raw.githubusercontent.com/andigoenfx/libernet/main/install.sh')"
 ```
 - Latest version Libernet will be installed on your system
 
