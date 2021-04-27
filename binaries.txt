@@ -1,5 +1,1 @@
-badvpn-tun2socks
-corkscrew
-obfs-local
-sshpass
-trojan-go
+
